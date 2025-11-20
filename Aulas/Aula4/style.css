@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+color: black;
+background: -webkit-linear-gradient(left, #b409f2, #ea08cc);
+background: -moz-linear-gradient(left, #b409f2, #ea08cc);
+background: -ms-linear-gradient(left, #b409f2, #ea08cc);
+background: -o-linear-gradient(left, #b409f2, #ea08cc);
+background: linear-gradient(to right, #b409f2, #ea08cc);
+text-align: center;
+line-height: 2;
+}
